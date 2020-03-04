@@ -18,4 +18,4 @@ $ brew cask install intelliscape-caffeine-beta
 ```
 
 ## License
-Code is under the [BSD 2 Clause (NetBSD) license](https://github.com/wmudge/homebrew-cask-wmudge/blob/master/LICENSE)
+Code is under the [MIT license](https://github.com/wmudge/homebrew-cask-wmudge/blob/master/LICENSE)
